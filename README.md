@@ -28,10 +28,6 @@ Chipotle's supply chain management has undergone a significant transformation, t
 ## Conclusion & Recommendations
 Chipotle's efforts to revamp its supply chain management reflect a proactive approach to addressing challenges and meeting the demands of the modern food industry. Recommendations include continued emphasis on safety measures, exploration of technological innovations, and maintaining transparency in supply chain practices.
 
-## Contributions
-- **Jaya Surya Thota**: Research about Chipotle’s Old Supply Chain
-- **Rahul Teja Bolloju**: Research about Chipotle’s New Supply Chain
-- **Sri Rayaleswar Mondrety**: Research about Chipotle’s RFID implementation.
 
 ## References
 References provided for further reading and understanding of Chipotle's supply chain journey.
